@@ -1,0 +1,13 @@
+# ignore the zip files
+*.zip
+# ignore the model files
+*.model
+# ignore the .pyc files
+*.pyc
+
+# Path: .gitattributes
+# set the line endings to be LF
+* text=auto eol=lf
+
+
+
