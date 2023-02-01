@@ -1,0 +1,66 @@
+# Package files
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+# IDE files
+*.sublime-project
+*.sublime-workspace
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+# Node.js files
+node_modules/
+npm-debug.log
+# Sass files
+.sass-cache/
+# Sass files
+*.css.map
+# Sass files
+*.scssc
+# Sass files
+*.sass-cache
+# Sass files
+*.css.map
+# Sass files
+*.scssc
+# Sass files
+*.sass-cache
+# Sass files
+*.css.map
+
+# models    
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.so
+*.egg-info
+*.egg
+*.models
+*.migrations
+*.static
+*.templates
+*.media
+
+
+
+
